@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "self-hosted",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/peLA1H1z3nhOQtrgxusEvOLMdldv0HfcmOLfrgkTOT9GYxFlxP",
+  "gitHubUrl": "https://github.com/sjnyos/nodejs-actions",
+  "workFolder": "_work"
+}

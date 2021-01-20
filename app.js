@@ -9,7 +9,7 @@ var prepareForWeather = require('./prepared-for-the-weather');
 var commandLineArgs = require("command-line-args");
 
 var cli = commandLineArgs([
-    { name: "location", alias: "l", type: String, defaultValue: "Nepal" }
+    { name: "location", alias: "l", type: String, defaultValue: "Kathamndu" }
 ]);
 var location = cli.parse().location;
 
